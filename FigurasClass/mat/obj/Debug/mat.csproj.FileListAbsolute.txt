@@ -1,0 +1,7 @@
+C:\Users\edith\source\repos\mat\mat\bin\Debug\mat.exe.config
+C:\Users\edith\source\repos\mat\mat\bin\Debug\mat.exe
+C:\Users\edith\source\repos\mat\mat\bin\Debug\mat.pdb
+C:\Users\edith\source\repos\mat\mat\obj\Debug\mat.csprojResolveAssemblyReference.cache
+C:\Users\edith\source\repos\mat\mat\obj\Debug\mat.csproj.CoreCompileInputs.cache
+C:\Users\edith\source\repos\mat\mat\obj\Debug\mat.exe
+C:\Users\edith\source\repos\mat\mat\obj\Debug\mat.pdb
